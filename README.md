@@ -88,6 +88,7 @@ agentic_rag/
 - Add support for more advanced transformer models like GPT-4 or LLaMA for better answers.  
 - Enhance the UI with more interactive elements like charts or tooltips.  
 - Deploy the app to a cloud service like AWS, Heroku, or Google Cloud for broader access.
+- Reading and analysing PDFs using this Agentic RAG.
 
 ---
 
@@ -98,5 +99,3 @@ This project is open-source and available under the MIT License.
 
 Feel free to contribute or suggest improvements!
 ```  
-
-Would you like further assistance with the README or anything else?

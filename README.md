@@ -1,4 +1,4 @@
-# Agentic RAG-Based Web App  
+# Web Analysis Agentic RAG  
 
 This is a web-based application that uses an Agentic Retrieval-Augmented Generation (RAG) pipeline to answer user questions based on a provided URL. The project allows users to input a webpage URL and a question. The application processes the webpage content and generates a context-relevant answer using advanced Natural Language Processing (NLP) techniques.
 

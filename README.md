@@ -2,7 +2,7 @@
 
 This is a web-based application that uses an Agentic Retrieval-Augmented Generation (RAG) pipeline to answer user questions based on a provided URL. The project allows users to input a webpage URL and a question. The application processes the webpage content and generates a context-relevant answer using advanced Natural Language Processing (NLP) techniques.
 
-This project is inspired by concepts taught in the video [Learn Flask in 60 Minutes](https://youtu.be/LzG_Vkd30Kg?si=Nzav1MMhRJtvksNf) and has been further modified to include a custom RAG model for question answering.
+This project is inspired by concepts taught in the video [Agentic RAG Explained](https://youtu.be/LzG_Vkd30Kg?si=Nzav1MMhRJtvksNf) and has been further modified to include a custom RAG model for question answering.
 
 ---
 

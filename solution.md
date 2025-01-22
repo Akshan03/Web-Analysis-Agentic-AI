@@ -23,3 +23,10 @@ This dual-layered approach ensures efficient and accurate information retrieval,
 What is Llama 3?
 
 **Output**:
+Device set to use cpu
+Question: what is llama 3
+Context can answer the question
+Answer: <class 'str'>
+In this article, we will explore Meta Llama 3, how to use it and the differences between Llama 2 and Llama 3. What is Meta Llama 3? ---------------------
+
+Meta Llama 3 is a large language model (LLM) developed by Meta that's trained on a massive amount of text data. This allows it to understand and respond to language in a comprehensive way, making it suitable for tasks like writing different kinds of creative content, translating languages, and answering your questions in an informative way. Compared to previous versions like Llama 2, Llama 3 boasts better reasoning abilities, code generation, and can follow instructions more effectively. It also outperforms other open models on benchmarks that measure language understanding and response (ARC, DROP and MMLU). One of the most intriguing new feature of Llama 3 compared to Llama 2 is its integration into Meta's core products. The AI assistant is now accessible through chat functions in Facebook Messenger, Instagram, and WhatsApp. This translates to a more helpful and more accessible AI assistant. Imagine asking Facebook for a summary of a research paper, or requesting creative writing prompts on Instagram – Llama 3 aims to be there for these tasks and more.
